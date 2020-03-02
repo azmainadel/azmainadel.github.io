@@ -1,12 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Azmain Adel
 description         : >-
                       "I turn coffee :coffee: into code,
                       use tabs over spaces
-                      and never broke production."
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-# remote_theme        : YoussefRaafatNasry/portfolYOU
+                      and sometimes despise myself as a software engineer."
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+# repository          : azmainadel    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 
 ### Plugins ###
@@ -19,28 +18,27 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://bit.ly/2KCvgVJ
-  behance           : your_username
-# dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  name              : Azmain Adel
+  image             : assets/img/avatar.png
+  email             : azmainadel47@gmail.com
+  github            : azmainadel
+  linkedin          : azmainadel
+  behance           : xyntherys
+  medium            : azmainadel
+  facebook          : azmainadelsheesh
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+# dribbble          : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
@@ -54,8 +52,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
 
 
 ### Defaults for collections ###
@@ -65,12 +61,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
-
 
 ### Exclude from processing ###
 exclude:
