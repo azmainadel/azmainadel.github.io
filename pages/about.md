@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: site/about/
+permalink: /about/
 weight: 1
 ---
 

@@ -4,7 +4,7 @@ description         : >-
                       "I turn coffee :coffee: into code,
                       use tabs over spaces
                       and sometimes despise myself as a software engineer."
-baseurl             : "/site"      
+baseurl             : ""      
 name                : Azmain Adel   
 repository          : azmainadel           
 
