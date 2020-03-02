@@ -1,17 +1,31 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- place: Field Information Solutions GmbH/Ltd.
+  position: Jr. Software Engineer (Level 1)  
+  from: July 2019
+  to: Present
+  description:  The visionary company Field Information Solutions GmbH is
+                my rite of passage into software engineering professionalism.
+                The mobile app team has been working on building in-depth,
+                sector-specific modules on one powerful platform, Field Buzz.
+                Developers and designers blew me away with their willingness 
+                to share their time and wisdom.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- place: Durbin Labs Ltd.
+  position: Software Development Intern  
+  from: May 2016
+  to: Jan 2017
+  description:  I was a lucky intern to work with Durbin Lab's small, brilliant android team.
+                I learned about project management, Android & web app development,
+                testing, using software development tools etc.
+                This tenure during my varsity years flooded me with opportunities
+                to osmose bits of wisdom from software developers, system designers,
+                testers from the industry.
+
+- place: Microsoft Bangladesh
+  position: Intern 
+  from: Dec 2016
+  to: Jan 2017
+  description:  I worked with Young Bangla who launched a program with
+                Microsoft Bangladesh to inspire the young developers to come up with something
+                that would make a mark on the socio-economic state of Bangladesh.
+                Working with a company with such an immense calibre taught me to surround myself 
+                with people who push me to my limits.

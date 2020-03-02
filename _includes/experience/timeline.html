@@ -3,7 +3,8 @@
     {% for item in site.data.timeline %}
       <div class="timeline-item">
         <div class="content">
-          <h2>{{ item.title }}</h2>
+          <h3>{{ item.place }}</h3>
+          <h5>{{ item.position }}</h5>
           <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
           <p>{{ item.description }}</p>
         </div>
