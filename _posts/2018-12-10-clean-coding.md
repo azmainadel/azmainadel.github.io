@@ -1,5 +1,5 @@
 ---
-title: Clean Coding
+title: (THIS IS A TEMPLATE) Clean Coding
 tags: [Software Development, Clean Code]
 style: fill
 color: info

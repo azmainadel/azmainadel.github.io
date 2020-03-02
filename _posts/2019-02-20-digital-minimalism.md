@@ -1,5 +1,5 @@
 ---
-title: Digital Minimalism
+title: (THIS IS A TEMPLATE) Digital Minimalism
 tags: [Social Media, Minimalism, Technology]
 style: 
 color: 

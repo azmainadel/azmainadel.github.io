@@ -1,5 +1,5 @@
 ---
-title: A better Hello World
+title: (THIS IS A TEMPLATE) A better Hello World
 tags: [Software Development]
 style: fill
 color: dark

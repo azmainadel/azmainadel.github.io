@@ -1,7 +1,7 @@
 [
   
     {
-      "title"    : "Digital Minimalism",
+      "title"    : "(THIS IS A TEMPLATE) Digital Minimalism",
       "category" : "",
       "tags"     : "Social Media, Minimalism, Technology",
       "url"      : "/blog/digital-minimalism",
@@ -9,7 +9,7 @@
     } ,
   
     {
-      "title"    : "Learn React.js in 5 minutes",
+      "title"    : "(THIS IS A TEMPLATE) Learn React.js in 5 minutes",
       "category" : "",
       "tags"     : "React, JavaScript, Web Development",
       "url"      : "/blog/learn-react-js",
@@ -17,7 +17,7 @@
     } ,
   
     {
-      "title"    : "Clean Coding",
+      "title"    : "(THIS IS A TEMPLATE) Clean Coding",
       "category" : "",
       "tags"     : "Software Development, Clean Code",
       "url"      : "/blog/clean-coding",
@@ -25,7 +25,7 @@
     } ,
   
     {
-      "title"    : "What the heck is a Callback?",
+      "title"    : "(THIS IS A TEMPLATE) What the heck is a Callback?",
       "category" : "",
       "tags"     : "JavaScript, Nodejs, Web Development",
       "url"      : "/blog/what-the-heck-is-a-callback",
@@ -33,7 +33,7 @@
     } ,
   
     {
-      "title"    : "4 Lessons After 11 Years in Silicon Valley",
+      "title"    : "(THIS IS A TEMPLATE) 4 Lessons After 11 Years in Silicon Valley",
       "category" : "",
       "tags"     : "",
       "url"      : "/blog/four-lessons-after-eleven-years-in-silicon-valley",
@@ -41,7 +41,7 @@
     } ,
   
     {
-      "title"    : "GitHub Flow",
+      "title"    : "(THIS IS A TEMPLATE) GitHub Flow",
       "category" : "",
       "tags"     : "GitHub, Workflow",
       "url"      : "/blog/github-flow",
@@ -49,7 +49,7 @@
     } ,
   
     {
-      "title"    : "A better Hello World",
+      "title"    : "(THIS IS A TEMPLATE) A better Hello World",
       "category" : "",
       "tags"     : "Software Development",
       "url"      : "/blog/a-better-hello-world",
@@ -57,7 +57,7 @@
     } ,
   
     {
-      "title"    : "Do not go gentle into that good night",
+      "title"    : "(THIS IS A TEMPLATE) Do not go gentle into that good night",
       "category" : "",
       "tags"     : "Poetry",
       "url"      : "/blog/do-not-go-gentle-into-that-good-night",
@@ -65,7 +65,7 @@
     } ,
   
     {
-      "title"    : "What is version control?",
+      "title"    : "(THIS IS A TEMPLATE) What is version control?",
       "category" : "",
       "tags"     : "Version Control",
       "url"      : "/blog/what-is-version-control",
@@ -73,7 +73,7 @@
     } ,
   
     {
-      "title"    : "How to undo your git failure?",
+      "title"    : "(THIS IS A TEMPLATE) How to undo your git failure?",
       "category" : "",
       "tags"     : "External Post, Git",
       "url"      : "https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74",

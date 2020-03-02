@@ -1,5 +1,5 @@
 ---
-title: What is version control?
+title: (THIS IS A TEMPLATE) What is version control?
 tags: [Version Control]
 style: fill
 color: secondary

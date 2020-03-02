@@ -1,5 +1,5 @@
 ---
-title: 4 Lessons After 11 Years in Silicon Valley
+title: (THIS IS A TEMPLATE) 4 Lessons After 11 Years in Silicon Valley
 tags: 
 style: fill
 color: success

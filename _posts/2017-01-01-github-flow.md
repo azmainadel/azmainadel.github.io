@@ -1,5 +1,5 @@
 ---
-title: GitHub Flow
+title: (THIS IS A TEMPLATE) GitHub Flow
 tags: [GitHub, Workflow]
 style: fill
 color: primary
