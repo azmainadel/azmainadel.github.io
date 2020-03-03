@@ -1,5 +1,5 @@
 ---
-title: (THIS IS A TEMPLATE) What the heck is a Callback?
+title:  What the heck is a Callback?
 tags: [JavaScript, Nodejs, Web Development]
 style: fill
 color: danger

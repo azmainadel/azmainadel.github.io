@@ -1,5 +1,5 @@
 ---
-title: (THIS IS A TEMPLATE) Do not go gentle into that good night
+title: Do not go gentle into that good night
 tags: [Poetry]
 style: fill
 color: light

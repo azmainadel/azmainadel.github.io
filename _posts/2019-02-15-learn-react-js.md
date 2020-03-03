@@ -1,5 +1,5 @@
 ---
-title: (THIS IS A TEMPLATE) Learn React.js in 5 minutes
+title:  Learn React.js in 5 minutes
 tags: [React, JavaScript, Web Development]
 style: border
 color: primary
