@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume2
-permalink: /resume2/
+title: Resume
+permalink: /resume/
 weight: 6
 ---
 <body style="margin:0px;padding:0px;overflow:hidden">
