@@ -5,7 +5,7 @@ permalink: /about/
 weight: 1
 ---
 
-### **A little bit about me**
+#### **A little bit about me**
 Ever since I was a kid, computers have been my passion. I always remember the days of tweaking my old  PC by building custom OS using hack-tools. As the days past by, I went from editing the Windows registry to writing Javascript code snippets. I read books, all the articles in the newspapers I could find that were remotely related to computer hardware & software.
 
 The passion carried me through my education in computer science at BUET. Even though I was somewhat average at academics, I learned about new languages, data structures, algorithms, compilers, software development, etc all with the same fascination I had as a kid.
