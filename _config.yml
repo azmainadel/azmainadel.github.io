@@ -1,9 +1,11 @@
 ### Site Settings ###
 title               : I'm Azmain Adel
+subtitle            : CS Graduate | Software Engineer
 description         : >-
                       "I turn coffee :coffee: into code,
                       use tabs over spaces
                       and sometimes despise myself as a software engineer."
+                      
 baseurl             : ""      
 name                : Azmain Adel   
 repository          : azmainadel           
