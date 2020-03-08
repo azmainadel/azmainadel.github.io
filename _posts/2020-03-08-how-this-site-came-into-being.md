@@ -14,7 +14,7 @@ This is not my first personal website. I had one of these before when I had no e
 
 Let's see how I built this one. Stuffs I've used:
 
--  Jekyll (For building the site)
+- Jekyll (For building the site)
 - Github Pages (For deployment)
 
 
@@ -34,34 +34,12 @@ First of all, I installed **Jekyll**. Jekyll is a static site generator.
 gem install jekyll bundler
 ```
 
-3. Create a new Jekyll site at `./myblog`.
-
-```
-jekyll new myblog
-```
-
-4. Change into your new directory.
-
-```
-cd myblog
-```
-
-5. Build the site and make it available on a local server.
-
-```
-bundle exec jekyll serve
-```
-
-6. Browse to [http://localhost:4000](http://localhost:4000){:target="_blank"}
-
-
-
 ## What to do with Jekyll?
 
 I used a Jekyll template named [*_PortfolYOU_*](https://github.com/YoussefRaafatNasry/portfolYOU). It's beautiful and minimal.  
 
 I had to change the layouts according to my wishes. It's not that hard. There's a really helpful document on how to set up yours using this template. 
-Here's the documentation: https://youssefraafatnasry.me/portfolYOU/docs/
+Here's the documentation: [PortfolYOU Docs](https://youssefraafatnasry.me/portfolYOU/docs/)
 
 Basics of HTML & CSS is required to tinker with the navigation, views etc of the site. Explore on your own, it's fun. 
 
@@ -71,15 +49,17 @@ Some important things:
 
 * Take a look at the `GemFile`. It will be required to deploy the site.
 
-  
+* Always edit and run locally to check the output. 
 
-Always edit and run locally to check the output. If you change the main `_config.yml` file, you need to serve the site again:
+If you change the main `_config.yml` file, you need to serve the site again:
 
 ```
 bundle exec jekyll serve
 ```
+Browse to [http://localhost:4000](http://localhost:4000){:target="_blank"}
 
 If you change any HTML, CSS or Markdown files, Jekyll with reload the site with the changes automatically.
+
 Feel free to knock me to know the details on how to add blog posts, projects etc to a Jekyll site.
 
 
@@ -101,7 +81,6 @@ The site will be deployed at **USERNAME.github.io**. For using a custom domain, 
 ## Using a domain
 
 I bought the domain from [Namecheap](https://www.namecheap.com/). Follow the article below on how to link this DNS to your Github pages site.
-
 [Linking namecheap domain to Github pages](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
 
 
