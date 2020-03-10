@@ -49,6 +49,9 @@ author:
 ### Posts ###
 permalink: /blog/:title
 
+### Google Services ###
+google_analytics: UA-160210255-1
+
 
 ### Collections ###
 collections:
