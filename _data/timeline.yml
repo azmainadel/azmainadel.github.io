@@ -1,4 +1,5 @@
 - place: Field Information Solutions GmbH/Ltd.
+  logo: "../assets/img/work-logos/f.png"
   position: Jr. Software Engineer (Level 2)  
   from: July 2019
   to: Present
@@ -10,6 +11,7 @@
                 to share their time and wisdom.
 
 - place: Durbin Labs Ltd.
+  logo: "../assets/img/work-logos/d.png"
   position: Software Development Intern  
   from: May 2016
   to: Jan 2017
@@ -21,6 +23,7 @@
                 testers from the industry.
 
 - place: Microsoft Bangladesh
+  logo: "../assets/img/work-logos/m.png"
   position: Intern 
   from: Dec 2016
   to: Jan 2017
