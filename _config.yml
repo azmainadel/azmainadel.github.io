@@ -52,6 +52,9 @@ permalink: /blog/:title
 ### Google Services ###
 google_analytics: UA-160210255-1
 
+### Disqus ###
+disqus:
+    shortname: azmainadel
 
 ### Collections ###
 collections:
