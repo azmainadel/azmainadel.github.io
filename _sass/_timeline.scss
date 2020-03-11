@@ -2,7 +2,7 @@
   position: relative;
   background-color: $light;
   border-radius: 0 $rounded-borders $rounded-borders 0;
-  padding: 5px 0;
+  padding: 2px 0;
 
   &:after {
     // Left Border
@@ -44,4 +44,12 @@
       }
     }
   }
+}
+
+.circle-logo {
+  width: 10%;
+  height: 10%;
+  border-radius: 20%;
+  object-fit: cover;
+  object-position: center;
 }
