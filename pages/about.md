@@ -15,6 +15,8 @@ The spark caught fire when I entered the industry. There is certainly yet more t
 My specialties include quickly learning new skills and programming languages, problem-solving, maintaining design principles and writing optimized codes. 
 So far I have Java, C++, C, Python, Javascript, Dart, GoLang, SQL, HTML, CSS, Flutter, Android SDK,  Blockchain, MongoDB, MySQL, Git under my belt. I am using my free time on AWS, Spring, Node.js, and enhancing my overall knowledge. I have somewhat worked on a professional level with UI design and graphic design with Photoshop, Illustrator, XD.
 
+I have also had the privilege of participating in the domains of management and organization. I worked at and managed two non-profit organizations. I was also among the lead organizers of a national techfest and many other programs.
+
 I am always eager to learn new technologies and remain up-to-date. I believe in professionalism and sincerity for a task. I prefer teamwork and knowledge sharing over being a lone wolf in the jungle.
 
 <!-- <h6 style="color: #fff">
