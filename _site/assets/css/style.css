@@ -568,3 +568,11 @@ body { font-family: "Poppins", sans-serif; }
 .timeline-body .timeline-item .content .date { margin-top: -5px; margin-bottom: 15px; color: #6c757d; }
 
 .circle-logo { width: 10%; height: 10%; border-radius: 20%; object-fit: cover; object-position: center; }
+
+.circle-logo-other { width: 30%; height: 30%; border-radius: 20%; object-fit: cover; object-position: center; }
+
+.column { float: left; }
+
+.left { width: 25%; }
+
+.right { width: 75%; }

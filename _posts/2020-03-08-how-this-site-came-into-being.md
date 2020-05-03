@@ -9,7 +9,7 @@ comments: true
 
 Hello. I'm glad that you're on my site!
 
-This is not my first personal website. I had one of these before when I had no experience with web development. It was all flashy and full of ridiculous plugins. After staring my professional life in the industry, I built this one with minimal design principles. 
+This is not my first personal website. I had one of these before when I had no experience with web development. It was all flashy and full of ridiculous plugins. After starting my professional life in the industry, I built this one with minimal design principles. 
 
 
 
