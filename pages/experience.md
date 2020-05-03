@@ -4,8 +4,16 @@ title: Experience
 weight: 3
 permalink: /experience/
 ---
-#### **Here's where I've worked** 
+#### **Professional Experience** 
 
 <div class="row">
-    {% include experience/timeline.html %}
+    {% include experience/pro_experience.html %}
+</div>
+
+<br>
+
+#### **Other Experience** 
+
+<div class="row">
+    {% include experience/other_experience.html %}
 </div>
