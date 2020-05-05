@@ -28,9 +28,8 @@ First of all, I installed **Jekyll**. Jekyll is a static site generator.
 
 ### Instructions
 
-1. Install a full [Ruby development environment](/docs/installation/).
-2. Install Jekyll and [bundler](/docs/ruby-101/#bundler) [gems](/docs/ruby-101/#gems).
-
+1. Install a full [Ruby development environment](https://www.ruby-lang.org/en/documentation/installation).
+2. Install [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) and [gems](https://jekyllrb.com/docs/ruby-101/#gems).
 ```
 gem install jekyll bundler
 ```
