@@ -1,5 +1,5 @@
 ---
-title: How this site came was built
+title: How this site was built
 tags: [Jekyll, Github-pages, Personal Site]
 style: border
 color: primary
