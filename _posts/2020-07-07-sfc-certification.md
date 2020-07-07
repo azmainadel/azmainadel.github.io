@@ -108,7 +108,7 @@ But, please do not attempt the exam without studying. Actually this study before
 
 After finishing the exam successfully you will get your SFC certificate. Keep it clean and tidy, forget about it, show it off or do whatever you seem is sensible. 
 
-**Remember, the knowledge you earn is your biggest achievement.**
+**Remember, the knowledge you acquire is your biggest achievement.**
 
 By the way, here is the one I got today!
 
