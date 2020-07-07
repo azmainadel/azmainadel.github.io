@@ -1,5 +1,5 @@
 ---
-title: Getting the SFC™ certification
+title: Getting the SFC™ Certification
 tags: [Scrum, Certification, Free]
 style: border
 color: primary
@@ -7,7 +7,7 @@ description: How I got Scrum Fundamentals Certified. Information, study guide an
 comments: true
 ---
 
-Hello everyone. This will be my walkthrough on how I got the SFC certificate.
+Hello everyone. This will be my walkthrough on how I got the SFC™ certificate.
 
 ## Scrum
 
@@ -22,7 +22,7 @@ To get the basics, you can watch this short [video](https://youtu.be/aP3TBpWWwJ8
 
 ## SFC?
 
-SFC stands for **Scrum Fundamentals Certified**. This certification is provided by [SCRUMstudy](https://www.scrumstudy.com/) which is owned by VMEdu. They have a broad coverage of Scrum certification:
+SFC™ stands for **Scrum Fundamentals Certified**. This certification is provided by [SCRUMstudy](https://www.scrumstudy.com/) which is owned by VMEdu. They have a broad coverage of Scrum certification:
 
 1. Scrum Fundamentals Certified (SFC)
 2. Scrum Developer Certified (SDC)
@@ -39,8 +39,29 @@ SFC stands for **Scrum Fundamentals Certified**. This certification is provided 
 
 SFC is tailored to help anyone interested to know more about Scrum; learn about key concepts in Scrum, and to get a basic understanding of how Scrum framework works in delivering successful projects. 
 
-Although this is a free certificate, this provides with the necessary knowledge of Scrum fundamentals by which you can say you know Scrum and it's procedures.
+Although this is a **free certificate**, this provides with the necessary knowledge of Scrum fundamentals.
 
+
+
+## What I learned
+
+I always believed that to become a better software engineer, even if you are going to code most of the time during the initial years, knowledge of team & project management is a MUST. This can be gained through experience and what I have understood, that is absolutely the best way to go. But extra knowledge always helps and I wanted to explore an organized methodology of managing projects.
+
+If you are new to the software industry or currently on your final year of graduation, this course will definitely help you.
+
+This certification helped me to learn many topics of such a methodology, Scrum.
+
+If you are to take the exam, you will know these topics anyway. Also, the SBOK guide has described these perfectly. So I am just pointing out the topics I got to learn from studying for the exam.
+
+- The origin story of Scrum
+- Benefits of Scrum
+- The six Scrum principles
+- Scrum Flow
+- Scrum Aspects
+- Scrum Phases and Processes
+- Scrum Scaling
+- The 19 fundamental Scrum processes, along with inputs and outputs
+- Scrum Roles
 
 
 ## Getting the certification
@@ -65,7 +86,7 @@ For only the SFC this is way too much. But, to know Scrum and become a master, d
 
 I personally found it hard to keep concentration during the 4-hour webinar. Also, the timezone of Bangladesh was a problem as I had to sit through boring lectures from 9 PM to 1:30 AM including breaks. As the training presentation slides will be provided beforehand, reading that should cover the webinar in my opinion.
 
-So, the primary study material will be the course videos and the SBOK guide. Watch the videos and read the relevant topics from the guide book. As the SFC covers the key concepts, principles of Scrum you do not need to finish the whole book for this certification. I finished the videos on a weekend and took another couple of days to study the SBOK guide to get the confidence for attending the exam.
+So, the primary study material will be the course videos and the SBOK guide. Watch the videos and read the relevant topics from the guide book. As the SFC covers the key concepts and principles of Scrum, you do not need to finish the whole book for this certification. I finished the videos on a weekend and took another couple of days to study the SBOK guide to get the confidence for attending the exam.
 
 #### The exam
 
@@ -79,7 +100,9 @@ The format of the exam is as follows:
 - 60 minutes duration
 - Online unproctored exam
 
-If I had to rate how tough the exam was, I would give it 4/10. But, please do not attempt the exam without studying. Actually this study beforehand will benefit you the most as knowing and understanding Scrum will help in the long run.
+If I had to rate how tough the exam was, I would give it 4/10. In other words, easy!
+
+But, please do not attempt the exam without studying. Actually this study beforehand will benefit you the most as knowing and understanding Scrum will help in the long run.
 
 #### Certificate
 
@@ -92,22 +115,8 @@ By the way, here is the one I got today!
 <img src="../assets/img/blog/sfc-certification/cert.jpg" alt="certificate" style="zoom:60%;" />
 
 
+---
+Thanks for reading. 
 
-## What I learned
-
-If you are to take the exam, you will know these topics anyway. Also, the SBOK guide has described these perfectly. So I am just pointing out the topics I got to learn from studying for the exam.
-
-- The origin story of Scrum
-- Benefits of Scrum
-- The six Scrum principles
-- Scrum Flow
-- Scrum Aspects
-- Scrum Phases and Processes
-- Scrum Scaling
-- The 19 fundamental Scrum processes, along with inputs and outputs
-- Scrum Roles
-
-
-
-Thanks for reading. Please do leave a comment or knock me if have any query regarding this post.
+Please do leave a comment or knock me if have any query regarding this post.
 Stay home, stay safe.
