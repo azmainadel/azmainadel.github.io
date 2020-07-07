@@ -3,7 +3,7 @@ title: How this site was built
 tags: [Jekyll, Github-pages, Personal Site]
 style: border
 color: primary
-description: This is a meta post. It contains a quick overview of the processes that were required to build and publish this site. 
+description: Meta post containing a brief overview of the required processes to build and publish this site. 
 comments: true
 ---
 

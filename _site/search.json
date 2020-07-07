@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Getting the SFC™ certification",
+      "category" : "",
+      "tags"     : "Scrum, Certification, Free",
+      "url"      : "/blog/sfc-certification",
+      "date"     : "2020-07-07 00:00:00 +0600"
+    } ,
+  
+    {
       "title"    : "How this site was built",
       "category" : "",
       "tags"     : "Jekyll, Github-pages, Personal Site",
