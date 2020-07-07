@@ -3,7 +3,7 @@ title: Getting the SFC™ Certification
 tags: [Scrum, Certification, Free]
 style: border
 color: primary
-description: How I got Scrum Fundamentals Certified. Information, study guide and more!
+description: How I got Scrum Fundamentals Certified, information, study guide and more!
 comments: true
 ---
 
