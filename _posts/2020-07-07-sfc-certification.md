@@ -39,7 +39,7 @@ SFC™ stands for **Scrum Fundamentals Certified**. This certification is provid
 
 SFC is tailored to help anyone interested to know more about Scrum; learn about key concepts in Scrum, and to get a basic understanding of how Scrum framework works in delivering successful projects. 
 
-Although this is a **free certificate**, this provides with the necessary knowledge of Scrum fundamentals.
+Although this is a **free certificate**, this provides the necessary knowledge on Scrum fundamentals.
 
 
 
@@ -118,5 +118,5 @@ By the way, here is the one I got today!
 ---
 Thanks for reading. 
 
-Please do leave a comment or knock me if have any query regarding this post.
+Please do leave a comment or knock me if you have any query regarding this post.
 Stay home, stay safe.
