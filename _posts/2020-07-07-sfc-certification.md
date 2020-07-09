@@ -7,8 +7,6 @@ description: How I got Scrum Fundamentals Certified, information, study guide an
 comments: true
 ---
 
-Hello everyone. This will be my walkthrough on how I got the SFC™ certificate.
-
 ## Scrum
 
 Most of you have already heard of the term *Scrum*. 

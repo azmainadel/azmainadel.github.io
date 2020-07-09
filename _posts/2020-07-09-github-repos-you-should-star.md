@@ -89,7 +89,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
 
 The roadmap to becoming a (web) developer in 2020. You will find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend, or a DevOps engineer.
 
-**Do check out another great repo by the same author: <a href="https://github.com/kamranahmedse/design-patterns-for-humans" target="_blank">Design Pattern for Humans</a>
+**Do check out another great repo by the same author: <a href="https://github.com/kamranahmedse/design-patterns-for-humans" target="_blank">Design Pattern for Humans</a>**
 
 
 ## <a href="https://github.com/jlevy/the-art-of-command-line" target="_blank">The Art of Command Line</a>
