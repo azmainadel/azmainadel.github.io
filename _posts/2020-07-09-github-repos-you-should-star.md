@@ -51,7 +51,7 @@ That sums it up really well. Follow this repo and study hard.
 
 **Stars: 43,619**
 
-**GitHub: <a href="https://github.com/yangshun/tech-interview-handbook" target="_blank"></a> 
+**GitHub: <a href="https://github.com/yangshun/tech-interview-handbook" target="_blank">Tech Interview GitHub</a>**
 
 This is a wonderfully curated repo that will help you with not just the technical studies, but also in applying for jobs, resume writing, interview processes, behavior tips, etc. This has *practical* content that covers all phases of a technical interview, from applying for a job to passing the interviews to offer negotiation. A must-have.
 
