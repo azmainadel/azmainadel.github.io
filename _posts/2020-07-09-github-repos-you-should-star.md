@@ -41,7 +41,7 @@ Moreover, there is support for many languages. A must-have repo.
 
 ## [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-**Stars: 124,073 **
+**Stars: 124,073**
 
 From the repo creator's own words who got hired by *Amazon* after following this study plan,
 
@@ -53,7 +53,7 @@ That sums it up really well. Follow this repo and study hard.
 
 ## [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
-**Stars: 43,619 **
+**Stars: 43,619**
 
 **GitHub: https://github.com/yangshun/tech-interview-handbook**
 
