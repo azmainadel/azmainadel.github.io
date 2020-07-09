@@ -36,11 +36,11 @@
     <div class="navbar-nav ml-auto">
 <a class="nav-item nav-link " href="/about/">About</a>
 
-      <a class="nav-item nav-link active" href="/blog/">Blog</a>
+      <a class="nav-item nav-link " href="/blog/">Blog</a>
 
       <a class="nav-item nav-link " href="/experience/">Experience</a>
 
-      <a class="nav-item nav-link " href="/random/">Random</a>
+      <a class="nav-item nav-link active" href="/random/">Random</a>
 
       <a class="nav-item nav-link " href="/resume/">Resume</a>
 
@@ -50,98 +50,13 @@
   </div>
 
 </nav>
-  <!-- Simple-Jekyll-Search https://github.com/christian-fei/Simple-Jekyll-Search -->
+  <div class="col-lg-10 mx-auto mt-5 post">
+  <div class="video">
+  <iframe src="https://www.youtube.com/embed/vQhpho8rO6E" frameborder="0" allowfullscreen=""></iframe>
+</div>
 
-<div class="input-group mt-5 px-3">
-  <input id="search-input" type="text" class="form-control search-box" placeholder="Search posts..">
-  <div class="input-group-append">
-    <span class="input-group-text border border-primary bg-primary text-white">
-      <i class="fas fa-search"></i>
-    </span>
-  </div>
-  <button class="btn btn-outline-primary ml-1" onclick="location.href = '/blog/tags';">
-    <i class="fas fa-tags"></i>
-  </button>
-</div>
-<ul class="px-3" id="results-container"></ul>
+<p>Did it help?</p>
 
-<script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
-<script>
-  var sjs = SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action">{title}</a>',
-        noResultsText: '<li class="list-group-item">No results found</li>',
-        json: '/search.json'
-      })
-</script>
-<div class="card-group mt-2">
-
-  
-    <div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
-  <a href="/blog/github-repos-you-should-star" class="post card border border-primary">
-    <div class="card-body text-dark">
-      <h3 class="card-title">GitHub Repos You Should Star</h3>
-      <p class="card-text">
-        
-        <span class="badge badge-primary">GitHub</span>
-        
-        <span class="badge badge-primary">Resources</span>
-        
-        <span class="badge badge-primary">Tutorials</span>
-        
-      </p>
-      <p class="card-text">Some of the best repos about CS and development on GitHub.</p>
-    </div>
-    <div class="card-footer text-dark">
-      09 July 2020
-    </div>
-  </a>
-</div>
-  
-    <div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
-  <a href="/blog/sfc-certification" class="post card border border-primary">
-    <div class="card-body text-dark">
-      <h3 class="card-title">Getting the SFC™ Certification</h3>
-      <p class="card-text">
-        
-        <span class="badge badge-primary">Scrum</span>
-        
-        <span class="badge badge-primary">Certification</span>
-        
-        <span class="badge badge-primary">Free</span>
-        
-      </p>
-      <p class="card-text">How I got Scrum Fundamentals Certified, information, study guide and more!</p>
-    </div>
-    <div class="card-footer text-dark">
-      07 July 2020
-    </div>
-  </a>
-</div>
-  
-    <div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
-  <a href="/blog/how-this-site-was-built" class="post card border border-primary">
-    <div class="card-body text-dark">
-      <h3 class="card-title">How this site was built</h3>
-      <p class="card-text">
-        
-        <span class="badge badge-primary">Jekyll</span>
-        
-        <span class="badge badge-primary">Github-pages</span>
-        
-        <span class="badge badge-primary">Personal Site</span>
-        
-      </p>
-      <p class="card-text">Meta post containing a brief overview of the required processes to build and publish this site.</p>
-    </div>
-    <div class="card-footer text-dark">
-      08 March 2020
-    </div>
-  </a>
-</div>
-  
-  
 </div>
   </main>
 
