@@ -8,6 +8,8 @@ comments: true
 ---
 
 
+<img src="../assets/img/blog/github-repos/star.png" alt="scrum-flow" style="zoom:50%;" />
+
 First things first, finding resources as a software developer or a CS student is tough. This doesn't mean that there aren't enough resources. Actually, there are way too many resources which can be overwhelming while searching for a library or tutorials or sample demo projects, etc.
 
 GitHub is the best place for frameworks, libraries, projects, documentation, and collections of many things. 
