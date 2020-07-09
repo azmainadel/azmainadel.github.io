@@ -37,7 +37,7 @@ SFC™ stands for **Scrum Fundamentals Certified**. This certification is provid
 
 
 
-SFC is tailored to help anyone interested to know more about Scrum; learn about key concepts in Scrum, and to get a basic understanding of how Scrum framework works in delivering successful projects. 
+SFC is tailored to help anyone interested to know more about Scrum; learn about key concepts in Scrum, and to get a basic understanding of how the Scrum framework works in delivering successful projects. 
 
 Although this is a **free certificate**, this provides the necessary knowledge on Scrum fundamentals.
 
@@ -47,7 +47,7 @@ Although this is a **free certificate**, this provides the necessary knowledge o
 
 I always believed that to become a better software engineer, even if you are going to code most of the time during the initial years, knowledge of team & project management is a MUST. This can be gained through experience and what I have understood, that is absolutely the best way to go. But extra knowledge always helps and I wanted to explore an organized methodology of managing projects.
 
-If you are new to the software industry or currently on your final year of graduation, this course will definitely help you.
+If you are new to the software industry or currently in your final year of graduation, this course will definitely help you.
 
 This certification helped me to learn many topics of such a methodology, Scrum.
 
@@ -118,5 +118,5 @@ By the way, here is the one I got today!
 ---
 Thanks for reading. 
 
-Please do leave a comment or knock me if you have any query regarding this post.
+Please do leave a comment or knock me if you have any queries regarding this post.
 Stay home, stay safe.
