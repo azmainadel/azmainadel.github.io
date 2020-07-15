@@ -18,6 +18,7 @@ Here I've listed some GitHub repos that might interest you. I've found these fro
 
 You can  learn and build new things, study for interviews and make yourself a better developer from these. This is not only for software developers, CS students can also gain something from this list. Hope this helps.
 
+---
 
 ## <a href="https://github.com/sindresorhus/awesome" target="_blank">Awesome</a>
 
