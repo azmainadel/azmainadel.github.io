@@ -16,7 +16,7 @@ GitHub is the best place for frameworks, libraries, projects, documentation, and
 
 Here I've listed some GitHub repos that might interest you. I've found these from reading articles, study purposes, suggestions from other people, random repo surfing adventure, and from the curiosity of learning new tools & frameworks. 
 
-You can  learn and build new things, study for interviews and make yourself a better developer from these. This is not only for software developers, This is not only for software developers, but CS students can also gain something from this list. Hope this helps.
+You can  learn and build new things, study for interviews and make yourself a better developer from these. This is not only for software developers, CS students can also gain something from this list. Hope this helps.
 
 
 ## <a href="https://github.com/sindresorhus/awesome" target="_blank">Awesome</a>
