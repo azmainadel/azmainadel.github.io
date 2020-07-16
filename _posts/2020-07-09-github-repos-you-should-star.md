@@ -24,8 +24,8 @@ You can  learn and build new things, study for interviews and make yourself a be
 
 **Stars: 136,402**
 
-What is awesome? Only awesome is awesome. This is the unofficial wiki of the most awesome GitHub repositories. The awesome lists include tutorials, libraries, documentation, etc.
-See how many times I used the word 'awesome'? Well, this repo is truly awesome.
+What is awesome? This is the unofficial wiki of the most awesome GitHub repositories. The categorized and detailed lists include tutorials, libraries, documentation, etc.
+Well, this repo is truly awesome indeed.
 
 
 ## <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Free Programming Books</a>
