@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "AWS Fundamentals Course",
+      "category" : "",
+      "tags"     : "AWS, Certification, Coursera",
+      "url"      : "/blog/aws-fundamentals-certification",
+      "date"     : "2020-07-17 00:00:00 +0600"
+    } ,
+  
+    {
       "title"    : "GitHub Repos You Should Star",
       "category" : "",
       "tags"     : "GitHub, Resources, Tutorials",
