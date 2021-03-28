@@ -1,10 +1,34 @@
 [
   
     {
-      "title"    : "How this site came into being",
+      "title"    : "AWS Fundamentals Course",
+      "category" : "",
+      "tags"     : "AWS, Certification, Coursera",
+      "url"      : "/blog/aws-fundamentals-certification",
+      "date"     : "2020-07-17 00:00:00 +0600"
+    } ,
+  
+    {
+      "title"    : "GitHub Repos You Should Star",
+      "category" : "",
+      "tags"     : "GitHub, Resources, Tutorials",
+      "url"      : "/blog/github-repos-you-should-star",
+      "date"     : "2020-07-09 00:00:00 +0600"
+    } ,
+  
+    {
+      "title"    : "Getting the SFC™ Certification",
+      "category" : "",
+      "tags"     : "Scrum, Certification, Free",
+      "url"      : "/blog/sfc-certification",
+      "date"     : "2020-07-07 00:00:00 +0600"
+    } ,
+  
+    {
+      "title"    : "How this site was built",
       "category" : "",
       "tags"     : "Jekyll, Github-pages, Personal Site",
-      "url"      : "/blog/how-this-site-came-into-being",
+      "url"      : "/blog/how-this-site-was-built",
       "date"     : "2020-03-08 00:00:00 +0600"
     } 
   

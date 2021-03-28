@@ -1,9 +1,9 @@
 ---
-title: How this site came was built
+title: How this site was built
 tags: [Jekyll, Github-pages, Personal Site]
 style: border
 color: primary
-description: This is a meta post. It contains a quick overview of the processes that were required to build and publish this site. 
+description: Meta post containing a brief overview of the required processes to build and publish this site. 
 comments: true
 ---
 
@@ -28,9 +28,8 @@ First of all, I installed **Jekyll**. Jekyll is a static site generator.
 
 ### Instructions
 
-1. Install a full [Ruby development environment](/docs/installation/).
-2. Install Jekyll and [bundler](/docs/ruby-101/#bundler) [gems](/docs/ruby-101/#gems).
-
+1. Install a full [Ruby development environment](https://www.ruby-lang.org/en/documentation/installation).
+2. Install [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) and [gems](https://jekyllrb.com/docs/ruby-101/#gems).
 ```
 gem install jekyll bundler
 ```

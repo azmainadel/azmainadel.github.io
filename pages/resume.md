@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-weight: 6
+weight: 7
 ---
 <body style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://drive.google.com/file/d/1VaLFWxw76L5tQ-dMLTVog0GxQH-FU8Og/preview" height="768"
