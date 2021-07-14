@@ -10,8 +10,6 @@ comments: true
 
 <img src="../assets/img/blog/github-repos/star.png" alt="scrum-flow" style="zoom:50%;" />
 
-First things first, finding resources as a software developer or a CS student is tough. This doesn't mean that there aren't enough resources. Actually, there are way too many resources which can be overwhelming while searching for a library or tutorials or sample demo projects, etc.
-
 GitHub is the best place for frameworks, libraries, projects, documentation, and collections of many things. 
 
 Here I've listed some GitHub repos that might interest you. I've found these from reading articles, study purposes, suggestions from other people, random repo surfing adventure, and from the curiosity of learning new tools & frameworks. 
@@ -88,7 +86,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
 
 **Stars: 113,994**
 
-The roadmap to becoming a (web) developer in 2020. You will find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend, or a DevOps engineer.
+The roadmap to becoming a (web) developer in 2020. You will find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend, or DevOps engineer.
 
 **Do check out another great repo by the same author: <a href="https://github.com/kamranahmedse/design-patterns-for-humans" target="_blank">Design Pattern for Humans</a>**
 
