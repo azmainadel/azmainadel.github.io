@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The 6 R&#39;s",
+      "category" : "",
+      "tags"     : "Cloud, Migration",
+      "url"      : "/blog/6r-migration",
+      "date"     : "2021-07-14 00:00:00 +0600"
+    } ,
+  
+    {
       "title"    : "AWS Fundamentals Course",
       "category" : "",
       "tags"     : "AWS, Certification, Coursera",

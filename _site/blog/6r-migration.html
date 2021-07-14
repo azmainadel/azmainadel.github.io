@@ -49,63 +49,76 @@
 
 </nav>
   <div class="col-lg-10 mx-auto mt-5 post">
-  <h1><b>AWS Fundamentals Course</b></h1>
+  <h1><b>The 6 R's</b></h1>
 
 <p class="post-metadata text-muted">
-  17 July 2020 -
+  14 July 2021 -
   <b>less than 1 min read time</b>
 
   <br>Tags:
   
-  <a class="text-decoration-none no-underline" href="/blog/tags#aws">
-    <span class="tag badge badge-pill text-primary border border-primary">AWS</span>
+  <a class="text-decoration-none no-underline" href="/blog/tags#cloud">
+    <span class="tag badge badge-pill text-primary border border-primary">Cloud</span>
   </a>
   
-  <a class="text-decoration-none no-underline" href="/blog/tags#certification">
-    <span class="tag badge badge-pill text-primary border border-primary">Certification</span>
-  </a>
-  
-  <a class="text-decoration-none no-underline" href="/blog/tags#coursera">
-    <span class="tag badge badge-pill text-primary border border-primary">Coursera</span>
+  <a class="text-decoration-none no-underline" href="/blog/tags#migration">
+    <span class="tag badge badge-pill text-primary border border-primary">Migration</span>
   </a>
   </p>
 
-<p>I recently completed the four-course AWS Fundamentals specialization on Coursera conducted by the AWS team. Beginners can start this one but some basic backend and system design knowledge are necessary.</p>
+<h2 id="strategies-for-cloud-application-migration">Strategies for Cloud Application Migration</h2>
 
-<p>Link to the course:
-<a href="https://www.coursera.org/specializations/aws-fundamentals" target="_blank">AWS Fundamentals Specialization</a></p>
+<blockquote>
+  <p>“How emigration is actually lived — well, this depends on many factors: education, economic station, language, where one lands, and what support network is in place at the site of arrival.” -Daniel Alarcón</p>
+</blockquote>
+
+<h3 id="1-re-host">1. Re-host</h3>
+
+<p><em>Lift and shift</em></p>
+
+<p>This is moving your application from one host to another <strong>without making any changes</strong>. This migration is usually done by large-scale, business-oriented organizations who want to migrate their application quickly to meet business objectives. These migrations are mostly done by automated migration tools.</p>
+
+<p>Similar to <code class="language-plaintext highlighter-rouge">Ctrl+X</code> and then <code class="language-plaintext highlighter-rouge">Ctrl+V</code></p>
+
+<h3 id="2-re-platform">2. Re-platform</h3>
+
+<p><em>Lift, modify and shift</em></p>
+
+<p>This is moving your application from one host to another and <strong>making some changes</strong>. Let’s say you are moving your large-scale application to another cloud platform and want to change the DB while you are at it. This will be considered re-platforming.</p>
+
+<h3 id="3-refactorre-architect">3. Refactor/Re-architect</h3>
+
+<p><em>Change the existing environment</em></p>
+
+<p><strong>Redesign the architecture</strong> of your application driven by a strong business need to add new features or upgrade performance. This is performed when the requirements are difficult to achieve in the current architectural states.</p>
+
+<p>An example can be moving from monolithic architecture to microservices.</p>
+
+<h3 id="4-re-purchase">4. Re-purchase</h3>
+
+<p><em>Move to a new product</em></p>
+
+<p>This migration commonly refers to <strong>moving to the SaaS</strong> (software-as-a-service) model. This is changing perpetual licenses to services that will make the application more robust.</p>
+
+<p>For example, using <em>salesforce.com</em> instead of manual CRM.</p>
+
+<h3 id="5-retire">5. Retire</h3>
+
+<p><em>Get rid of</em></p>
+
+<p>This means <strong>removing or turning off applications</strong> that are no longer functional. These savings can boost your business case, direct your team’s attention to the applications people use.</p>
+
+<h3 id="6-retainrevisit">6. Retain/Revisit</h3>
+
+<p><em>Keep that matters the most</em></p>
+
+<p>This means <strong>keeping the applications that are vital</strong> to the system or not migration priority to and migrating the others through re-platforming or refactoring. One should only migrate what makes sense for the business.</p>
 
 <hr>
-<p><img src="../assets/img/blog/aws-certification/cert.png" alt="certificate" style="zoom:50%;"></p>
 
-<hr>
+<p><img src="../assets/img/blog/6-rs/image4.png" alt="certificate" style="zoom:100%;">
+Image taken from <a href="https://aws.amazon.com/whitepapers/">AWS Migration Whitepaper</a></p>
 
-<p>Brief Introductions to the four courses:</p>
-
-<h4 id="going-cloud-native"><strong>Going Cloud Native:</strong></h4>
-
-<p>This course will introduce you to AWS core services and infrastructure.</p>
-
-<p>Topics: <em>EC2, S3, VPC, Gateways, ELB, EFS, EBS, Lightsail, RDS, DynamoDB, Cloudwatch.</em></p>
-
-<h4 id="addressing-security-risks"><strong>Addressing Security Risks:</strong></h4>
-
-<p>This course will give you an overview of security best practices when developing and managing applications on AWS.</p>
-
-<p>Topics: <em>AWS Shared Responsibility Model, Security Hub GuardDuty, Secrets Manager, IAM.</em></p>
-
-<h4 id="migrating-to-the-cloud"><strong>Migrating to the Cloud:</strong></h4>
-
-<p>This course focuses on analyzing your current environment, planning your migration, AWS services that are commonly used during a migration, and the actual migration steps.
-There are optional lab works but access to that is limited to paid enrolled students. Thanks to BUET I got a paid Coursera access.</p>
-
-<p>Topics: <em>DMS, Migration policies, Direct Connect</em>, etc.</p>
-
-<h4 id="building-serverless-applications"><strong>Building Serverless Applications:</strong></h4>
-
-<p>This course will introduce you to the AWS serverless architecture. Through demonstrations and hands-on exercises you’ll learn skills by building and deploying a serverless website &amp; a chat bot.</p>
-
-<p>Topics: <em>Lambda, API Gateway, Cloudfront, DynamoDB, Lex, Poly.</em></p>
 
 
 <p>
