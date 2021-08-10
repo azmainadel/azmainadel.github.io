@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "My Linux Development Workstation",
+      "category" : "",
+      "tags"     : "Development, IDE, Personal",
+      "url"      : "/blog/linux-dev",
+      "date"     : "2021-08-10 00:00:00 +0600"
+    } ,
+  
+    {
       "title"    : "The 6 R&#39;s",
       "category" : "",
       "tags"     : "Cloud, Migration",
