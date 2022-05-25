@@ -49,114 +49,151 @@
 
 </nav>
   <div class="col-lg-10 mx-auto mt-5 post">
-  <h1><b>How this site was built</b></h1>
+  <h1><b>Passive Replication in Distributed Database Systems</b></h1>
 
 <p class="post-metadata text-muted">
-  08 March 2020 -
+  15 May 2022 -
   <b>2 mins read time</b>
 
   <br>Tags:
   
-  <a class="text-decoration-none no-underline" href="/blog/tags#jekyll">
-    <span class="tag badge badge-pill text-primary border border-primary">Jekyll</span>
+  <a class="text-decoration-none no-underline" href="/blog/tags#database">
+    <span class="tag badge badge-pill text-primary border border-primary">Database</span>
   </a>
   
-  <a class="text-decoration-none no-underline" href="/blog/tags#github-pages">
-    <span class="tag badge badge-pill text-primary border border-primary">Github-pages</span>
+  <a class="text-decoration-none no-underline" href="/blog/tags#cap">
+    <span class="tag badge badge-pill text-primary border border-primary">CAP</span>
   </a>
   
-  <a class="text-decoration-none no-underline" href="/blog/tags#personal-site">
-    <span class="tag badge badge-pill text-primary border border-primary">Personal Site</span>
+  <a class="text-decoration-none no-underline" href="/blog/tags#replication">
+    <span class="tag badge badge-pill text-primary border border-primary">Replication</span>
+  </a>
+  
+  <a class="text-decoration-none no-underline" href="/blog/tags#distributed">
+    <span class="tag badge badge-pill text-primary border border-primary">Distributed</span>
   </a>
   </p>
 
-<p>Hello. I’m glad that you’re on my site!</p>
+<p><img src="../assets/img/blog/passive-replication/hero.png" alt="databases" style="zoom:50%;"></p>
 
-<p>This is not my first personal website. I had one of these before when I had no experience with web development. It was all flashy and full of ridiculous plugins. After starting my professional life in the industry, I built this one with minimal design principles.</p>
+<h3 id="brewers-cap-theorem">Brewer’s CAP Theorem</h3>
 
-<p>Let’s see how I built this one. Stuffs I’ve used:</p>
-
-<ul>
-  <li>Jekyll (For building the site)</li>
-  <li>Github Pages (For deployment)</li>
-</ul>
-
-<h2 id="setting-up-your-build-environment">Setting up your build environment</h2>
-
-<p>First of all, I installed <strong>Jekyll</strong>. Jekyll is a static site generator.</p>
-
-<p>(Read the documentation on the official site for more information. It’s not mandatory)</p>
-
-<h3 id="instructions">Instructions</h3>
+<p>In theoretical computer science, the CAP theorem, also named Brewer’s theorem after computer scientist Eric Brewer, states that any distributed data store can only provide two of the following three guarantees:</p>
 
 <ol>
-  <li>Install a full <a href="https://www.ruby-lang.org/en/documentation/installation">Ruby development environment</a>.</li>
-  <li>Install <a href="https://jekyllrb.com/docs/ruby-101/#bundler">bundler</a> and <a href="https://jekyllrb.com/docs/ruby-101/#gems">gems</a>.
-    <div class="language-plaintext highlighter-rouge">
-<div class="highlight"><pre class="highlight"><code>gem install jekyll bundler
-</code></pre></div>    </div>
-  </li>
+  <li>
+<strong>C</strong>onsistency:
+Every read receives the most recent write or an error.</li>
+  <li>
+<strong>A</strong>vailability:
+Every request receives a (non-error) response, without the guarantee that it contains the most recent write.</li>
+  <li>
+<strong>P</strong>artition tolerance:
+The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.</li>
 </ol>
 
-<h2 id="what-to-do-with-jekyll">What to do with Jekyll?</h2>
+<p><strong>But, the catch is, you can only pick <em>two</em> of those properties at a given point in time as it is impossible to ensure all three in a system.</strong></p>
 
-<p>I used a Jekyll template named <a href="https://github.com/YoussefRaafatNasry/portfolYOU"><em>_PortfolYOU_</em></a>. It’s beautiful and minimal.</p>
-
-<p>I had to change the layouts according to my wishes. It’s not that hard. There’s a really helpful document on how to set up yours using this template. 
-Here’s the documentation: <a href="https://youssefraafatnasry.me/portfolYOU/docs/">PortfolYOU Docs</a></p>
-
-<p>Basics of HTML &amp; CSS is required to tinker with the navigation, views etc of the site. Explore on your own, it’s fun.</p>
-
-<p>Some important things:</p>
-
+<p>In a distributed database system, we have network partitions (P in CAP) b default.
+So we get to pick only one of</p>
 <ul>
   <li>
-    <p><code class="language-plaintext highlighter-rouge">_config.yml</code> is the mother configuration of your site.</p>
-  </li>
+<strong>A</strong>vailability</li>
   <li>
-    <p>Take a look at the <code class="language-plaintext highlighter-rouge">GemFile</code>. It will be required to deploy the site.</p>
-  </li>
-  <li>
-    <p>Always edit and run locally to check the output.</p>
-  </li>
+<strong>C</strong>onsistency</li>
 </ul>
 
-<p>If you change the main <code class="language-plaintext highlighter-rouge">_config.yml</code> file, you need to serve the site again:</p>
+<p>In this post, I am focusing on the AP combination and I will briefly discuss availability is ensured using database replication.</p>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle exec jekyll serve
-</code></pre></div></div>
-<p>Browse to <a href="http://localhost:4000" target="_blank">http://localhost:4000</a></p>
+<h3 id="availability-using-replication">Availability using Replication</h3>
 
-<p>If you change any HTML, CSS or Markdown files, Jekyll with reload the site with the changes automatically.</p>
+<p>Availability in a distributed system ensures that the system remains operational 100% of the time. Every request gets a (non-error) response regardless of the individual state of a node.</p>
 
-<p>Feel free to knock me to know the details on how to add blog posts, projects etc to a Jekyll site.</p>
+<p>There are two types of database replications:</p>
+<ol>
+  <li>Active replication - <strong>Push</strong>
+</li>
+  <li>Passive replication - <strong>Pull</strong>
+</li>
+</ol>
 
-<h2 id="deploy-using-github-pages">Deploy using Github Pages</h2>
+<h4 id="active-replication">Active Replication</h4>
 
-<p>I used Github Pages as my deployment environment. Basically, I did nothing. To learn more about Github pages watch this <a href="https://www.youtube.com/watch?=1&amp;v=2MsN8gpT6jY">video</a>.</p>
+<p>In active replication each client request is processed by all the servers. So all of the distributed data storage gets updated <em>actively</em>.</p>
 
-<p>So it’ll be easier to link the instructions I followed. Very simple and easy to follow.
-<a href="https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll">Creating a Github Pages site with Jekyll</a></p>
+<h4 id="passive-replication">Passive Replication</h4>
+
+<p>In passive replication there is only one server (called primary) that processes client requests. After processing a request, the primary data storage updates the others <em>passively</em>.</p>
+
+<p>How do the data stores do this?</p>
+
+<h3 id="passive-replication-methods">Passive Replication Methods</h3>
 
 <ul>
-  <li>The repository name should be <strong>USERNAME.github.io</strong>
-</li>
-  <li>For any other repository, the Github pages URL will be. <strong>USERNAME.github.io/REPO-NAME</strong>
-</li>
+  <li>Master-Slave replication</li>
+  <li>Tree replication</li>
+  <li>Master-Master replication</li>
+  <li>Buddy replication</li>
 </ul>
 
-<p>The site will be deployed at <strong>USERNAME.github.io</strong>. For using a custom domain, read the section below.</p>
+<h4 id="1-master-slave-replication">1. Master-Slave Replication</h4>
 
-<h2 id="using-a-domain">Using a domain</h2>
+<p>A generic replication method.</p>
 
-<p>I bought the domain from <a href="https://www.namecheap.com/">Namecheap</a>. Follow the article below on how to link this DNS to your Github pages site.
-<a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages">Linking namecheap domain to Github pages</a></p>
+<ul>
+  <li>Master (primary storage) gets the latest data.</li>
+  <li>Slaves (secondary storages) replicate the data internally.</li>
+</ul>
 
-<p>After linking, go to your repository settings. Find the Github pages section and set your domain address in the <em>Custom Domain</em> field.
-It might take 20-30 minutes for Github to find the DNS the deploy your site to the set address.</p>
+<p><img src="../assets/img/blog/passive-replication/master-slave.png" alt="master-slave"></p>
 
-<h4 id="thats-it-it-went-live">That’s it. It went live.</h4>
+<h4 id="2-tree-replication">2. Tree Replication</h4>
 
+<p>A structure similar to a tree is maintained. In this case, all the parent nodes are masters and the child nodes are slaves.</p>
+
+<ul>
+  <li>Master (tree root) gets the latest data.</li>
+  <li>Child masters and their slaves replicate the data internally.</li>
+</ul>
+
+<p><img src="../assets/img/blog/passive-replication/tree.png" alt="master-slave"></p>
+
+<h4 id="3-master-master-replication">3. Master-Master Replication</h4>
+
+<p>Every storage is maintained as primary or master.</p>
+
+<ul>
+  <li>Every master storage can get latest data.</li>
+  <li>They replicate each other to stay updated.</li>
+</ul>
+
+<p><img src="../assets/img/blog/passive-replication/master-master.png" alt="master-slave"></p>
+
+<h4 id="4-buddy-replication">4. Buddy Replication</h4>
+
+<p>A ring topology of data storage servers.</p>
+
+<ul>
+  <li>Each node stores the backup of the previous node on the chain.</li>
+  <li>The backup is performed using replication.</li>
+</ul>
+
+<p><img src="../assets/img/blog/passive-replication/buddy.png" alt="master-slave"></p>
+
+<p><strong>But what if a node goes offline?</strong></p>
+
+<p>The solution is easy.</p>
+
+<ul>
+  <li>Store extra backup.</li>
+  <li>Update the replication chain.</li>
+</ul>
+
+<p><img src="../assets/img/blog/passive-replication/buddy-2.png" alt="master-slave"></p>
+
+<hr>
+
+<p>Hero image taken from <a href="https://undraw.co/">unDraw</a></p>
 
 
 <p>

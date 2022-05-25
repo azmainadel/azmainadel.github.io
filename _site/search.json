@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Passive Replication in Distributed Database Systems",
+      "category" : "",
+      "tags"     : "Database, CAP, Replication, Distributed",
+      "url"      : "/blog/db-replication-distributed-systems",
+      "date"     : "2022-05-15 00:00:00 +0600"
+    } ,
+  
+    {
       "title"    : "My Linux Development Workstation",
       "category" : "",
       "tags"     : "Development, IDE, Personal",
