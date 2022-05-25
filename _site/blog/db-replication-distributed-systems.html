@@ -78,7 +78,7 @@
 
 <h3 id="brewers-cap-theorem">Brewer’s CAP Theorem</h3>
 
-<p>In theoretical computer science, the CAP theorem, also named Brewer’s theorem after computer scientist Eric Brewer, states that any distributed data store can only provide two of the following three guarantees:</p>
+<p>In theoretical computer science, the CAP theorem, also named Brewer’s theorem after computer scientist Eric Brewer, states that <strong>any distributed data store can only provide two of the following three guarantees</strong>:</p>
 
 <ol>
   <li>
@@ -92,9 +92,7 @@ Every request receives a (non-error) response, without the guarantee that it con
 The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.</li>
 </ol>
 
-<p><strong>But, the catch is, you can only pick <em>two</em> of those properties at a given point in time as it is impossible to ensure all three in a system.</strong></p>
-
-<p>In a distributed database system, we have network partitions (P in CAP) b default.
+<p>In a distributed database system, we have network partitions (P in CAP) by default.
 So we get to pick only one of</p>
 <ul>
   <li>

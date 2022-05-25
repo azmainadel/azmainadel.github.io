@@ -12,7 +12,7 @@ comments: true
 
 ### Brewer's CAP Theorem
 
-In theoretical computer science, the CAP theorem, also named Brewer's theorem after computer scientist Eric Brewer, states that any distributed data store can only provide two of the following three guarantees:
+In theoretical computer science, the CAP theorem, also named Brewer's theorem after computer scientist Eric Brewer, states that **any distributed data store can only provide two of the following three guarantees**:
 
 1. **C**onsistency:
 Every read receives the most recent write or an error.
@@ -21,9 +21,8 @@ Every request receives a (non-error) response, without the guarantee that it con
 3. **P**artition tolerance:
 The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.
 
-**But, the catch is, you can only pick *two* of those properties at a given point in time as it is impossible to ensure all three in a system.**
 
-In a distributed database system, we have network partitions (P in CAP) b default.
+In a distributed database system, we have network partitions (P in CAP) by default.
 So we get to pick only one of
 * **A**vailability
 * **C**onsistency
