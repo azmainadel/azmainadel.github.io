@@ -6,18 +6,17 @@ weight: 1
 ---
 
 #### **A little bit about me**
-Ever since I was a kid, computers have been my passion. I always remember the days of tweaking my old  PC by building custom OS using hack-tools. As the days past by, I went from editing the Windows registry to writing Javascript code snippets. I read books, all the articles in the newspapers I could find that were remotely related to computer hardware & software.
+Computers have been my passion since I was a kid. I have fond memories of tinkering with my old Intel Celeron PC, using hack tools to customize the operating system. Over time, my skills progressed from editing the Windows registry to writing JavaScript & Python code snippets. I eagerly consumed books and newspaper articles on computer hardware and software, devouring any information I could find.
 
-The passion carried me through my education in computer science at BUET. Even though I was somewhat average at academics, I learned about new languages, data structures, algorithms, compilers, software development, etc all with the same fascination I had as a kid.
+My passion for computers guided my educational path, leading me to study Computer Science & Engineering at BUET. Although I was an average student academically, my fascination with new programming languages, data structures, algorithms, development frameworks, and tech tools grew stronger.
 
-The spark caught fire when I entered the industry. There is certainly yet more to learn, yet more to build and yet more problems to solve.
+When I entered the industry, my passion truly ignited. I realized there was always more to learn, more to create, and more problems to solve.
 
-My specialties include quickly learning new skills and programming languages, problem-solving, maintaining design principles and writing optimized codes. 
-I am always trying to enhance my overall knowledge. Besides programming, I have worked on a professional level with UI design and graphic design with Photoshop, Illustrator, Figma.
+I possess several strengths, including quickly learning new skills and programming languages, proficient problem-solving abilities, adherence to design principles, and writing optimized code. I continually strive to expand my knowledge in all areas. In addition to programming, I have experience in UI design and graphic design.
 
-I have also had the privilege of participating in the domains of management and organization. I worked at and managed two non-profit organizations. I was also among the lead organizers of a national techfest and many other programs. I volunteered as judge in multiple national hackathons.
+I have also been fortunate to participate in management and organizational roles. I have worked for and managed two non-profit organizations, and I have been a lead organizer for a national tech fest and other programs. I have also volunteered as a judge for multiple national hackathons.
 
-I am always eager to learn new technologies and remain up-to-date. I believe in professionalism and sincerity for a task. I prefer teamwork and knowledge sharing over being a lone wolf in the jungle.
+I have a strong desire to stay updated with new technologies and continue learning. Professionalism and dedication are fundamental values that guide my work. I believe in the power of teamwork and knowledge sharing, rather than working alone in isolation.
 
 <!-- <h6 style="color: #fff">
     📃 <a href="https://drive.google.com/open?id=1VaLFWxw76L5tQ-dMLTVog0GxQH-FU8Og" target="_blank">

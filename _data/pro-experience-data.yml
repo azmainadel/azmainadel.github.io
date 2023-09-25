@@ -1,35 +1,30 @@
-- place: <a href="https://retail.ai/" target="_blank">Intelligent Machines Limited </a>
+- place: <a href="https://retail.ai/" target="_blank">Optimizely Inc.</a>
+  logo: "../assets/img/work-logos/opti.png"
+  position: Software Engineer
+  from: September 2023
+  to: Present
+  description:  
+
+- place: <a href="https://retail.ai/" target="_blank">Intelligent Machines Ltd.</a>
   logo: "../assets/img/work-logos/im.png"
   position: Software Engineer
   from: April 2021
-  to: Present
-  description:  I am currently working on the brilliant product engineering team who collaborate with the AI team to build AI and advanced analytics models
-                from scratch as services for client organizations. It is like creative agency or, 
-                architectural/accounting/auditing/legal and other professional services.
+  to: August 2023
+  description:  
 
-- place: <a href="https://field.buzz/" target="_blank">Field Information Solutions GmbH/Ltd. </a>
+- place: <a href="https://field.buzz/" target="_blank">Field Information Solutions GmbH</a>
   logo: "../assets/img/work-logos/f.png"
-  position: Jr. Software Engineer (Level 2)  
+  position: Jr. Software Engineer -> Software Engineer
   from: July 2019
   to: March 2021
-  description:  The visionary company Field Information Solutions GmbH is
-                my rite of passage into software engineering professionalism.
-                The mobile app team has been working on building in-depth,
-                sector-specific modules on one powerful platform, Field Buzz.
-                Developers and designers blew me away with their willingness 
-                to share their time and wisdom.
+  description: 
 
 - place: <a href="https://durbinlabs.com/" target="_blank">Durbin Labs Ltd. </a>
   logo: "../assets/img/work-logos/d.png"
   position: Software Development Intern  
   from: May 2016
   to: Jan 2017
-  description:  I was a lucky intern to work with Durbin Lab's small, brilliant android team.
-                I learned about project management, Android & web app development,
-                testing, using software development tools etc.
-                This tenure during my varsity years flooded me with opportunities
-                to osmose bits of wisdom from software developers, system designers,
-                testers from the industry.
+  description: 
                 
 # - place: Microsoft Bangladesh
 #   logo: "../assets/img/work-logos/m.png"

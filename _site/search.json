@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "Database, CAP, Replication, Distributed",
       "url"      : "/blog/db-replication-distributed-systems",
-      "date"     : "2022-05-15 00:00:00 +0000"
+      "date"     : "2022-05-15 00:00:00 +0600"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "Development, IDE, Personal",
       "url"      : "/blog/linux-dev",
-      "date"     : "2021-08-10 00:00:00 +0000"
+      "date"     : "2021-08-10 00:00:00 +0600"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "Cloud, Migration",
       "url"      : "/blog/6r-migration",
-      "date"     : "2021-07-14 00:00:00 +0000"
+      "date"     : "2021-07-14 00:00:00 +0600"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "AWS, Certification, Coursera",
       "url"      : "/blog/aws-fundamentals-certification",
-      "date"     : "2020-07-17 00:00:00 +0000"
+      "date"     : "2020-07-17 00:00:00 +0600"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "GitHub, Resources, Tutorials",
       "url"      : "/blog/github-repos-you-should-star",
-      "date"     : "2020-07-09 00:00:00 +0000"
+      "date"     : "2020-07-09 00:00:00 +0600"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "Scrum, Certification, Free",
       "url"      : "/blog/sfc-certification",
-      "date"     : "2020-07-07 00:00:00 +0000"
+      "date"     : "2020-07-07 00:00:00 +0600"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "Jekyll, Github-pages, Personal Site",
       "url"      : "/blog/how-this-site-was-built",
-      "date"     : "2020-03-08 00:00:00 +0000"
+      "date"     : "2020-03-08 00:00:00 +0600"
     } 
   
 ]
